@@ -1,2 +1,2 @@
-# lagoon
-A vr game
+# Strandad
+A VR Game
